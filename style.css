@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	background: grey;
+}
+
+* {
+	//box-sizing: border-box;
+}
+
+main {
+	width: 800px;
+	height: 800px;
+	margin: 70px auto 0 auto;
+	background: white;
+	border: 10px solid #424242;
+}
+
+div {
+	width: 100px;
+	height: 100px;	
+	float: left;
+}
+
+.black {
+	background: black;
+}
